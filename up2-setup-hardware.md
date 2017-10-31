@@ -1,16 +1,32 @@
 [Workshop Agenda](README.md) > [UP2 Getting Started Guide](up2-getting-started.md) > [Setup Hardware](up2-getting-started.md)
 
-## First-time setup
-Plug the micro USB cable into the UP2 board, and the other end into your host computer. The micro USB port is located near the lone USB 3.0 port.
-![](./images/setup-hardware/1.jpg)
+## Setup the Up2 Hardware
+On the UP²* board locate connector 1 on the board. it is next to the screw that is circled in the photo.
+![](images/1.png)
 
-## Installing the Grove Pi + Board
-Line up pin 1 on the Grove board with the small arrow that indicates pin 1 on the UP2 Board.
+Line up pin 1 on the Grove Pi+ board with connector 1 on the UP² board, and carefully press down so that the pins on the Grove Pi+ board slide neatly into the connectors
+![](images/2.png)
 
-![](./images/setup-hardware/2.png)
+Plug the micro USB cable into the left side of the USB port on the UP² board.
+![](images/4.png)
 
-Find a wired Ethernet internet connection and plug it into the port of your UP2 board. It doesn’t matter which Ethernet port on the board you choose.
+Connect the micro USB cable to your host computer.
+**Note: Even though you might see lights turn on after you plug in the micro USB cable, this connection isn't enough to power your board reliably. The micro USB connection is used to set up the Arduino Create development environment. You'll connect the board to a power supply shortly.**
+
+![](images/5.png)
+
+Plug the Ethernet cable into the UP² board.
+
+Plug the other end of the Ethernet cable into your router, connecting it to the same network as your host computer.
+Note: Your host computer does not need to be on the same network as your UP² board.
+
+![](images/6.png)
+
+**Note: If you need to turn off your board, you can do so by pressing the small white button next to the blue LED, or you can simply unplug the power cable.**
+
+![](images/7.png)
 
 ### Powering on your board
 Power on your UP2 board. You should see a blue LED light up near the power connector.
+
 We’ll come back to using the hardware after setting up the Arduino Create development environment.

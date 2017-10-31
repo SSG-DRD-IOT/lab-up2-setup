@@ -2,7 +2,7 @@
 
 # UP2 Board Getting Started Guide
 
-This guide will walk you through powering on your board and getting a first project going (to blink an LED). Let’s get going!
+This guide will walk you through the setup process for the Up2 board.
 
 ### Gather your materials
 You’ll need the following:
