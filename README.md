@@ -19,4 +19,3 @@ There are three steps to beginning development with your Up2 boards-kits
 1. [Setup the Hardware](up2-setup-hardware.md)
 2. [Install the Arduino Create Agent on Your Development Computer](setup-arduino-create-agent.md)
 3. [Register Your Up2 Board as a Device on Arduino Create](up2-register-device.md)
-4. [Deploy a Simple Program to verify that is works](up2-blink-led.md)
