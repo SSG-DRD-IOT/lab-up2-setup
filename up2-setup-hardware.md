@@ -2,12 +2,15 @@
 
 ## Setup the Up2 Hardware
 On the UP²* board locate connector 1 on the board. it is next to the screw that is circled in the photo.
+
 ![](images/1.png)
 
 Line up pin 1 on the Grove Pi+ board with connector 1 on the UP² board, and carefully press down so that the pins on the Grove Pi+ board slide neatly into the connectors
+
 ![](images/2.png)
 
 Plug the micro USB cable into the left side of the USB port on the UP² board.
+
 ![](images/4.png)
 
 Connect the micro USB cable to your host computer.
