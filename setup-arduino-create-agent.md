@@ -17,7 +17,9 @@ To install the Arduino Create Agent, you must first go to [http://create.arduino
 
 ![](./images/arduino-create-agent/5.png) The Arduino Create website will detect your OS and begin downloading the Os specific Arduino Create Agent.
 
-Install the Agent and you will see if appear in the system tray of UI menu of your operating system.
+Install the Agent and you will see if appear in the system tray of UI menu of your operating system. **Please note that if you are using the Up2 Board itself as the development platform then the Arduino Create Agenda is already pre-installed for you. You can skip the Arduino Create Agent installation step.**
+
+In some browsers, the Arduino Web Editor may ask you to install extra certificates. 
 
 ## Connecting over IP Networking
 After you install the Arduino Create Agent, it will use the USB cable that you connected from the Up2 Board to your development computer to login to your Up2 Board, get the IP address and complete the registration process with the Arduino Create environment.
