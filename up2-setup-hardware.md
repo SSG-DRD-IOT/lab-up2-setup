@@ -1,4 +1,4 @@
-[Workshop Agenda](README.md) > [UP2 Getting Started Guide](up2-getting-started.md) > [Setup Hardware](up2-getting-started.md)
+[Industrial IoT Workshop](README.md) > [UP2 Getting Started Guide](README.md) > [Setup Hardware](up2-getting-started.md)
 
 ## Setup the Up2 Hardware
 On the UP²* board locate connector 1 on the board. it is next to the screw that is circled in the photo.
