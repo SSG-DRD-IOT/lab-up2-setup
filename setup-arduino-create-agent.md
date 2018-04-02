@@ -1,4 +1,4 @@
-[Workshop Agenda](README.md) > [UP2 Getting Started Guide](up2-getting-started.md) > [Install the Arduino Create Agent](up2-setup)
+[Workshop Agenda](README.md) > [UP2 Getting Started Guide](up2-getting-started.md) > [Install the Arduino Create Agent](setup-arduino-create-agent.md)
 
 # Installing the Arduino Create Agent
 
