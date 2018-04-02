@@ -1,4 +1,4 @@
-[Industrial Iot Workshop](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop) > [UP2 Getting Started Guide](up2-getting-started.md)
+[Industrial Iot Workshop](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop) > [UP2 Getting Started Guide](README.md)
 
 # UP2 Board Getting Started Guide
 
