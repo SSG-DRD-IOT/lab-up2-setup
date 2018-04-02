@@ -9,6 +9,10 @@ Line up pin 1 on the Grove Pi+ board with connector 1 on the UP² board, and car
 
 ![](images/2.png)
 
+Connect the **Grove LCD Display** to any I2C port.  This is done so that when your board powers up it will display the IP address on the LCD.
+
+![](images/8.jpg)
+
 Plug the micro USB cable into the left side of the USB port on the UP² board.
 
 ![](images/4.png)

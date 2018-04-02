@@ -22,7 +22,15 @@ Install the Agent and you will see if appear in the system tray of UI menu of yo
 In some browsers, the Arduino Web Editor may ask you to install extra certificates. 
 
 ## Connecting over IP Networking
-After you install the Arduino Create Agent, it will use the USB cable that you connected from the Up2 Board to your development computer to login to your Up2 Board, get the IP address and complete the registration process with the Arduino Create environment.
+The IP address of your board should be displayed on the LCD.
+
+Go to https://create.arduino.cc/getting-started/intel-platforms, and select **1. I have already installed an OS on my device**
+
+![](./images/arduino-create-agent/6.jpg)
+
+Then select **I know the IP address of my device** and enter your IP address that is on your LCD.
+
+![](./images/arduino-create-agent/7.jpg)
 
 If you find yourself on this "Connecting your board to Arduino Create" screen for than 3 minutes, check your connections (Ethernet, micro USB, power) and try again.  If that doesn’t work, try these troubleshooting tips:
 
