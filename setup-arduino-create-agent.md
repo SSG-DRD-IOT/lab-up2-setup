@@ -24,6 +24,8 @@ In some browsers, the Arduino Web Editor may ask you to install extra certificat
 ## Connecting over IP Networking
 The IP address of your board should be displayed on the LCD.
 
+![](./images/arduino-create-agent/9.jpg)
+
 Go to https://create.arduino.cc/getting-started/intel-platforms, and select **1. I have already installed an OS on my device**
 
 ![](./images/arduino-create-agent/6.jpg)
