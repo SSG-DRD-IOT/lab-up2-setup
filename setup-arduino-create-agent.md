@@ -32,6 +32,8 @@ Then select **I know the IP address of my device** and enter your IP address tha
 
 ![](./images/arduino-create-agent/7.jpg)
 
+![](./images/arduino-create-agent/8.png)
+
 If you find yourself on this "Connecting your board to Arduino Create" screen for than 3 minutes, check your connections (Ethernet, micro USB, power) and try again.  If that doesn’t work, try these troubleshooting tips:
 
 * Completely restart your UP² board by removing the power supply and the micro USB cable. Then power it back on. Wait a couple of minutes for it to boot, then try to connect to Arduino Create again.
