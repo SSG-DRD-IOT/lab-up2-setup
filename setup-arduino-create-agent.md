@@ -32,6 +32,8 @@ Go to https://create.arduino.cc/getting-started/intel-platforms, and select **1.
 
 Then select **I know the IP address of my device** and enter your IP address that is on your LCD.
 
+The username is **upsquared** and the password is **upsquared**
+
 ![](./images/arduino-create-agent/7.jpg)
 
 ![](./images/arduino-create-agent/8.png)
