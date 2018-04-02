@@ -1,4 +1,4 @@
-[Workshop Agenda](README.md) > [UP2 Getting Started Guide](up2-getting-started.md) > [Install the Arduino Create Agent](up2-setup)
+[Industrial IoT Workshop](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop) > [UP2 Getting Started Guide](README.md) > [Install the Arduino Create Agent](setup-arduino-create-agent.md)
 
 # Installing the Arduino Create Agent
 
@@ -15,14 +15,26 @@ To install the Arduino Create Agent, you must first go to [http://create.arduino
 
 ![](./images/arduino-create-agent/4.png) Note:  If you don’t already have an Arduino Create account, follow the onscreen instructions to sign up. You'll need to activate your account and log into the site using your new account.
 
-![](./images/arduino-create-agent/5.png) The Arduino Create website will detect your OS and begin downloading the Os specific Arduino Create Agent.
+![](./images/arduino-create-agent/5.png) The Arduino Create website will detect your OS and begin downloading the OS specific Arduino Create Agent.
 
-Install the Agent and you will see if appear in the system tray of UI menu of your operating system. **Please note that if you are using the Up2 Board itself as the development platform then the Arduino Create Agenda is already pre-installed for you. You can skip the Arduino Create Agent installation step.**
+Install the Agent and you will see if appear in the system tray of UI menu of your operating system. **Please note that if you are using the Up2 Board itself as the development platform then the Arduino Create Agent is already pre-installed for you.**
 
 In some browsers, the Arduino Web Editor may ask you to install extra certificates. 
 
 ## Connecting over IP Networking
-After you install the Arduino Create Agent, it will use the USB cable that you connected from the Up2 Board to your development computer to login to your Up2 Board, get the IP address and complete the registration process with the Arduino Create environment.
+The IP address of your board should be displayed on the LCD.
+
+![](./images/arduino-create-agent/9.jpg)
+
+Go to https://create.arduino.cc/getting-started/intel-platforms, and select **1. I have already installed an OS on my device**
+
+![](./images/arduino-create-agent/6.jpg)
+
+Then select **I know the IP address of my device** and enter your IP address that is on your LCD.
+
+![](./images/arduino-create-agent/7.jpg)
+
+![](./images/arduino-create-agent/8.png)
 
 If you find yourself on this "Connecting your board to Arduino Create" screen for than 3 minutes, check your connections (Ethernet, micro USB, power) and try again.  If that doesn’t work, try these troubleshooting tips:
 
