@@ -38,4 +38,6 @@ Power on your UP2 board. You should see a blue LED light up near the power conne
 
 We’ll come back to using the hardware after setting up the Arduino Create development environment.
 
-[Setup the Arduino Create Environment with your UP Squared Board](setup-arduino-create-agent.md)
+
+## Next Step
+[Setup Arduino Create Agent](setup-arduino-create-agent.md)
