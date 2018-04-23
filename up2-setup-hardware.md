@@ -1,4 +1,4 @@
-[Workshop Agenda](README.md) > [UP2 Getting Started Guide](up2-getting-started.md) > [Setup Hardware](up2-getting-started.md)
+[Industrial IoT Workshop](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop) > [UP2 Getting Started Guide](README.md) > [Setup Hardware](up2-getting-started.md)
 
 ## Setup the Up2 Hardware
 On the UP²* board locate connector 1 on the board. it is next to the screw that is circled in the photo.
@@ -8,6 +8,10 @@ On the UP²* board locate connector 1 on the board. it is next to the screw that
 Line up pin 1 on the Grove Pi+ board with connector 1 on the UP² board, and carefully press down so that the pins on the Grove Pi+ board slide neatly into the connectors
 
 ![](images/2.png)
+
+Connect the **Grove LCD Display** to any I2C port.  This is done so that when your board powers up it will display the IP address on the LCD.
+
+![](images/8.jpg)
 
 Plug the micro USB cable into the left side of the USB port on the UP² board.
 
@@ -33,6 +37,7 @@ Note: Your host computer does not need to be on the same network as your UP² bo
 Power on your UP2 board. You should see a blue LED light up near the power connector.
 
 We’ll come back to using the hardware after setting up the Arduino Create development environment.
+
 
 ## Next Step
 [Setup Arduino Create Agent](setup-arduino-create-agent.md)
