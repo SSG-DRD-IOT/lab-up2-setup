@@ -8,12 +8,14 @@ The Arduino Create Agent is a small service that connects your development compu
 To install the Arduino Create Agent, you must first go to [http://create.arduino.cc/](http://create.arduino.cc/) and click on the **My Devices** link.
 
 ![](./images/arduino-create-agent/1c.png) Click on **Add a new Device**.
+![](./images/arduino-create-agent/2.png) Note:  If you don’t already have an Arduino Create account, follow the onscreen instructions to sign up. You'll need to activate your account and log into the site using your new account.
 
-![](./images/arduino-create-agent/2.png) Select the **Next** button.
+
+Select the **Next** button.
 
 ![](./images/arduino-create-agent/3.png) Select the **Set up the Arduino Plugin to start coding online** link.
 
-![](./images/arduino-create-agent/4.png) Note:  If you don’t already have an Arduino Create account, follow the onscreen instructions to sign up. You'll need to activate your account and log into the site using your new account.
+![](./images/arduino-create-agent/4.png) 
 
 ![](./images/arduino-create-agent/5.png) The Arduino Create website will detect your OS and begin downloading the OS specific Arduino Create Agent.
 
