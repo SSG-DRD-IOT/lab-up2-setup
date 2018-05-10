@@ -4,6 +4,8 @@
 
 The Arduino Create Agent is a small service that connects your development computer to your prototyping board. Even though the development environment is a web application in the cloud, you still must have the prototyping board and your development computer on the same network.
 
+***Note***: If you are having problems with Arduino Create Agent installation, because of administrative rights of your PC, please skip to [Connecting over IP Networking](https://github.com/SSG-DRD-IOT/lab-up2-setup/blob/milano-workshop/setup-arduino-create-agent.md#connecting-over-ip-networking) section.
+
 ## Installation Steps
 To install the Arduino Create Agent, you must first go to [http://create.arduino.cc/](http://create.arduino.cc/) and click on the **My Devices** link.
 
