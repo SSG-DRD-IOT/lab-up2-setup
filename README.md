@@ -17,4 +17,5 @@ You’ll need the following:
 There are three steps to beginning development with your Up2 boards-kits
 
 1. [Setup the Hardware](up2-setup-hardware.md)
-2. [Install the Arduino Create Agent on Your Development Computer](setup-arduino-create-agent.md)
+2. [Connect to Hardware](up2-board-connect.md)
+3. [Install the Arduino Create Agent on Your Development Computer](setup-arduino-create-agent.md)
