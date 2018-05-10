@@ -33,3 +33,7 @@ for password, write **upsquared** again
 All workshop content is located under:
 
 `$ cd /home/upsquared/Desktop/Lab\ Answers`
+
+### Next Step
+
+[Setup Arduino Create Agent](setup-arduino-create-agent.md)
