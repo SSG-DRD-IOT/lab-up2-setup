@@ -40,4 +40,4 @@ We’ll come back to using the hardware after setting up the Arduino Create deve
 
 
 ## Next Step
-[Setup Arduino Create Agent](setup-arduino-create-agent.md)
+[Remote Connection to UP2 Board with SSH](up2-board-connect.md)
