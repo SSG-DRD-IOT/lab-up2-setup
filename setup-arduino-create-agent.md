@@ -54,3 +54,6 @@ If you find yourself on this "Connecting your board to Arduino Create" screen fo
 Lastly, you will be asked to name Your Up2 board.
 
 ## Now You Can Begin Coding
+
+Your board is ready to use with Arduino Cloud IDE. You can go to [Sensors and Actuators](https://github.com/SSG-DRD-IOT/toc-sensors/tree/milano-workshop) lab section to complete any of the labs.
+
