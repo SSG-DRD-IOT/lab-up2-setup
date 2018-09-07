@@ -1,20 +1,36 @@
-[Industrial Iot Workshop](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop) > [UP2 Getting Started Guide](README.md)
+# Installing the Arduino Create Agent
 
-# UP2 Board Getting Started Guide
+The Arduino Create Agent is a small service that connects your development computer to your prototyping board. Even though the development environment is a web application in the cloud, you still must have the prototyping board and your development computer on the same network.
 
-This guide will walk you through the setup process for the Up2 board.
+## Installation Steps
+To install the Arduino Create Agent, you must first go to [http://create.arduino.cc/](http://create.arduino.cc/) and click on the **My Devices** link.
 
-### Gather your materials
-You’ll need the following:
-*	UP2 board
-*	Power cord
-*	Micro USB cable
-*	Grove Pi+ Board
-* Grove LED sensor and Grove 4-pin wire
-*	Ethernet cable with network connection
+![](./images/arduino-create-agent/1c.png) Click on **Add a new Device**.
+![](./images/arduino-create-agent/2.png) Note:  If you don’t already have an Arduino Create account, follow the onscreen instructions to sign up. You'll need to activate your account and log into the site using your new account.
 
-## Setup Process
-There are three steps to beginning development with your Up2 boards-kits
+Select the **Next** button.
 
-1. [Setup the Hardware](up2-setup-hardware.md)
-2. [Install the Arduino Create Agent on Your Development Computer](setup-arduino-create-agent.md)
+![](./images/3.jpg) Select the **Set up a generic Intel(r) based platform** link.
+
+![](./images/arduino-create-agent/4.png)
+
+![](./images/arduino-create-agent/5.png) The Arduino Create website will detect your OS and begin downloading the OS specific Arduino Create Agent.
+
+Install the Agent and you will see if appear in the system tray of UI menu of your operating system. **Please note that if you are using the Up2 Board itself as the development platform then the Arduino Create Agent is already pre-installed for you.**
+
+In some browsers, the Arduino Web Editor may ask you to install extra certificates.
+
+## Name Your Computer
+Lastly, you will be asked to name Your Up2 board.
+
+# Register Up2 Board with Arduino Create
+
+Follow the steps online to register your Up2 Board.
+
+![](./images/register-up2-board/1.png)
+![](./images/register-up2-board/2.png)
+![](./images/register-up2-board/3.png)
+![](./images/register-up2-board/4.png)
+![](./images/register-up2-board/5.png)
+![](./images/register-up2-board/6.png)
+![](./images/register-up2-board/7.png)

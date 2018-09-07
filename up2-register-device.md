@@ -1,5 +1,3 @@
-[Workshop Agenda](README.md) > [UP2 Getting Started Guide](up2-getting-started.md) > [Register Up2 Board](up2-register-device.md)
-
 # Register Up2 Board with Arduino Create
 
 Follow the steps online to register your Up2 Board.

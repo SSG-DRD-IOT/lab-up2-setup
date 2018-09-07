@@ -1,4 +1,3 @@
-[Industrial IoT Workshop](https://github.com/SSG-DRD-IOT/Industrial-IoT-Workshop) > [UP2 Getting Started Guide](README.md) > [Install the Arduino Create Agent](setup-arduino-create-agent.md)
 
 # Installing the Arduino Create Agent
 
@@ -15,13 +14,13 @@ Select the **Next** button.
 
 ![](./images/arduino-create-agent/3.png) Select the **Set up the Arduino Plugin to start coding online** link.
 
-![](./images/arduino-create-agent/4.png) 
+![](./images/arduino-create-agent/4.png)
 
 ![](./images/arduino-create-agent/5.png) The Arduino Create website will detect your OS and begin downloading the OS specific Arduino Create Agent.
 
 Install the Agent and you will see if appear in the system tray of UI menu of your operating system. **Please note that if you are using the Up2 Board itself as the development platform then the Arduino Create Agent is already pre-installed for you.**
 
-In some browsers, the Arduino Web Editor may ask you to install extra certificates. 
+In some browsers, the Arduino Web Editor may ask you to install extra certificates.
 
 ## Name Your Computer
 Lastly, you will be asked to name Your Up2 board.
