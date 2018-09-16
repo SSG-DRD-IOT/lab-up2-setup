@@ -34,6 +34,6 @@ All workshop content is located under:
 
 `$ cd /home/upsquared/Desktop/Lab\ Answers`
 
-### Next Step
+### Next Step (Optional)
 
 [Setup Arduino Create Agent](setup-arduino-create-agent.md)
