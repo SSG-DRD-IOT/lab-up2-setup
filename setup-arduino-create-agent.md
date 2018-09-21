@@ -31,6 +31,20 @@ If you find yourself on this "Connecting your board to Arduino Create" screen fo
 * For Windows, press Ctrl+Shift+R.
 * For macOS*, hold Shift and click the Reload button.
 
+**Note:** If you have issues connecting to board without installing Arduino Create Agent with only writing the IP address, please try the next option after connecting through UP2 board terminal with SSH. 
+
+```bash
+export id=odundar:ad3c237e-4052-407c-951d-46e8d4d0b3ff
+
+wget -O install.sh https://downloads.arduino.cc/tools/feed/arduino-connector/arduino-connector.sh
+
+chmod +x install.sh
+
+./install.sh
+```
+
+**NOTE:** Arduino Create Agent Installation at below just for your information, inside the lab sections, we recommend skipping arduino create agent installation.
+
 ## Installation Steps
 To install the Arduino Create Agent, you must first go to [http://create.arduino.cc/](http://create.arduino.cc/) and click on the **My Devices** link.
 
