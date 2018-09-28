@@ -33,6 +33,7 @@ for password, write **upsquared** again
 All workshop content is located under:
 
 `$ cd /home/upsquared/workshop
+
  $ cd /home/upsquared/Desktop/Lab\ Answers`
 
 ### Next Step (Optional)
