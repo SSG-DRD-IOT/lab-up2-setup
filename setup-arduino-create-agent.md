@@ -31,10 +31,12 @@ If you find yourself on this "Connecting your board to Arduino Create" screen fo
 * For Windows, press Ctrl+Shift+R.
 * For macOS*, hold Shift and click the Reload button.
 
-**Note:** If you have issues connecting to board without installing Arduino Create Agent with only writing the IP address, please try the next option after connecting through UP2 board terminal with SSH. 
+**Note:** If you have issues connecting to board without installing Arduino Create Agent with only writing the IP address, please try the next option (I HAVE A SCREEN AND KEYBOARD AVAILABLE) after connecting through UP2 board terminal with SSH. 
+
+![](./images/arduino-create-agent/arduino-connector.PNG)
 
 ```bash
-export id=odundar:ad3c237e-4052-407c-951d-46e8d4d0b3ff
+export id=<unique-id shown on the web site>
 
 wget -O install.sh https://downloads.arduino.cc/tools/feed/arduino-connector/arduino-connector.sh
 
